@@ -1,0 +1,37 @@
+[0.417s] Invoking command in '/home/ilias/aruco./aruco_localization': PYTHONPATH=/home/ilias/aruco./build/aruco_localization/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ilias/aruco./install/aruco_localization/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/aruco_localization build --build-base /home/ilias/aruco./build/aruco_localization/build install --record /home/ilias/aruco./build/aruco_localization/install.log --install-scripts $base/lib/aruco_localization --single-version-externally-managed install_data
+[0.532s] running egg_info
+[0.533s] creating ../build/aruco_localization/aruco_localization.egg-info
+[0.533s] writing ../build/aruco_localization/aruco_localization.egg-info/PKG-INFO
+[0.533s] writing dependency_links to ../build/aruco_localization/aruco_localization.egg-info/dependency_links.txt
+[0.533s] writing entry points to ../build/aruco_localization/aruco_localization.egg-info/entry_points.txt
+[0.533s] writing requirements to ../build/aruco_localization/aruco_localization.egg-info/requires.txt
+[0.533s] writing top-level names to ../build/aruco_localization/aruco_localization.egg-info/top_level.txt
+[0.538s] writing manifest file '../build/aruco_localization/aruco_localization.egg-info/SOURCES.txt'
+[0.555s] reading manifest file '../build/aruco_localization/aruco_localization.egg-info/SOURCES.txt'
+[0.556s] writing manifest file '../build/aruco_localization/aruco_localization.egg-info/SOURCES.txt'
+[0.556s] running build
+[0.556s] running build_py
+[0.556s] creating /home/ilias/aruco./build/aruco_localization/build
+[0.556s] creating /home/ilias/aruco./build/aruco_localization/build/lib
+[0.557s] creating /home/ilias/aruco./build/aruco_localization/build/lib/aruco_localization
+[0.557s] copying aruco_localization/__init__.py -> /home/ilias/aruco./build/aruco_localization/build/lib/aruco_localization
+[0.557s] copying aruco_localization/aruco_detector.py -> /home/ilias/aruco./build/aruco_localization/build/lib/aruco_localization
+[0.558s] running install
+[0.558s] running install_lib
+[0.559s] creating /home/ilias/aruco./install/aruco_localization/lib/python3.8/site-packages/aruco_localization
+[0.559s] copying /home/ilias/aruco./build/aruco_localization/build/lib/aruco_localization/__init__.py -> /home/ilias/aruco./install/aruco_localization/lib/python3.8/site-packages/aruco_localization
+[0.559s] copying /home/ilias/aruco./build/aruco_localization/build/lib/aruco_localization/aruco_detector.py -> /home/ilias/aruco./install/aruco_localization/lib/python3.8/site-packages/aruco_localization
+[0.559s] byte-compiling /home/ilias/aruco./install/aruco_localization/lib/python3.8/site-packages/aruco_localization/__init__.py to __init__.cpython-38.pyc
+[0.560s] byte-compiling /home/ilias/aruco./install/aruco_localization/lib/python3.8/site-packages/aruco_localization/aruco_detector.py to aruco_detector.cpython-38.pyc
+[0.560s] running install_data
+[0.560s] creating /home/ilias/aruco./install/aruco_localization/share/ament_index
+[0.561s] creating /home/ilias/aruco./install/aruco_localization/share/ament_index/resource_index
+[0.561s] creating /home/ilias/aruco./install/aruco_localization/share/ament_index/resource_index/packages
+[0.561s] copying resource/aruco_localization -> /home/ilias/aruco./install/aruco_localization/share/ament_index/resource_index/packages
+[0.561s] copying package.xml -> /home/ilias/aruco./install/aruco_localization/share/aruco_localization
+[0.561s] running install_egg_info
+[0.562s] Copying ../build/aruco_localization/aruco_localization.egg-info to /home/ilias/aruco./install/aruco_localization/lib/python3.8/site-packages/aruco_localization-0.0.0-py3.8.egg-info
+[0.563s] running install_scripts
+[0.574s] Installing aruco_detector script to /home/ilias/aruco./install/aruco_localization/lib/aruco_localization
+[0.574s] writing list of installed files to '/home/ilias/aruco./build/aruco_localization/install.log'
+[0.586s] Invoked command in '/home/ilias/aruco./aruco_localization' returned '0': PYTHONPATH=/home/ilias/aruco./build/aruco_localization/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ilias/aruco./install/aruco_localization/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/aruco_localization build --build-base /home/ilias/aruco./build/aruco_localization/build install --record /home/ilias/aruco./build/aruco_localization/install.log --install-scripts $base/lib/aruco_localization --single-version-externally-managed install_data

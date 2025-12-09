@@ -1,0 +1,3 @@
+[console_scripts]
+aruco_detector = aruco_localization.aruco_detector:main
+
