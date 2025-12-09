@@ -1,0 +1,1 @@
+# autodetecter-aruco-foxyros2
